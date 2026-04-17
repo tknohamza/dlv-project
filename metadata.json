@@ -1,0 +1,6 @@
+{
+  "name": "dlv-project",
+  "description": "A web interface for yt-dlp to download and inspect video and audio streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
