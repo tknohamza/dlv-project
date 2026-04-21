@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Loader2, Download, Search, Youtube, Link as LinkIcon, AlertCircle, FileAudio, FileVideo, Key, CheckCircle2 } from 'lucide-react';
+import { MdLoop as Loader2, MdDownload as Download, MdSearch as Search, MdOutlineOndemandVideo as Youtube, MdLink as LinkIcon, MdErrorOutline as AlertCircle, MdAudiotrack as FileAudio, MdMovie as FileVideo, MdVpnKey as Key, MdCheckCircleOutline as CheckCircle2 } from 'react-icons/md';
 
 interface MediaInfo {
   title: string;
